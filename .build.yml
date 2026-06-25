@@ -1,0 +1,13 @@
+image: alpine/latest
+oauth: pages.sr.ht/PAGES:RW
+environment:
+  site: hajovonta.srht.site
+sources:
+  - https://git.sr.ht/~hajovonta/hajovonta
+tasks:
+  - publish: |
+      cd hajovonta
+      mkdir -p site/registry
+      cp registry/systems.sexp site/registry/
+      tar -czf site.tar.gz -C site .
+      acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz -Fsubdir=registry
