@@ -26,7 +26,7 @@
       (uiop:run-program (list "git" "-C" (namestring dir) "checkout" ref)))
     dir))
 (defvar *local-projects-dir*
-  (merge-pathnames "quicklisp/local-projects/" (user-homedir-pathname))
+  (first ql:*local-project-directories*)
   "Local directory where Hajovonta projects are cloned.")
 
 ;;; Auto-register on load
