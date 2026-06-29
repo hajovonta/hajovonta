@@ -12,6 +12,7 @@
  (:name "cl-firmata" :repo "https://git.sr.ht/~hajovonta/cl-firmata")
  (:name "cl-irc-server" :repo "https://git.sr.ht/~hajovonta/cl-irc-server")
  (:name "cl-kyber" :repo "https://git.sr.ht/~hajovonta/cl-kyber")
+ (:name "cl-mqtt" :repo "https://git.sr.ht/~hajovonta/cl-mqtt")
  (:name "cl-oauth2" :repo "https://git.sr.ht/~hajovonta/cl-oauth2")
  (:name "cl-pollute" :repo "https://git.sr.ht/~hajovonta/cl-pollute")
  (:name "cl-remote" :repo "https://git.sr.ht/~hajovonta/cl-remote")
