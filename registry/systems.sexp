@@ -6,6 +6,7 @@
  (:name "cl-cdp" :repo "https://git.sr.ht/~hajovonta/cl-cdp")
  (:name "cl-codegraph" :repo "https://git.sr.ht/~hajovonta/cl-codegraph")
  (:name "cl-coreutils" :repo "https://git.sr.ht/~hajovonta/cl-coreutils")
+ (:name "cl-dns" :repo "https://git.sr.ht/~/hajovonta/cl-dns")
  (:name "cl-dtn" :repo "https://git.sr.ht/~hajovonta/cl-dtn")
  (:name "cl-embeddings" :repo "https://git.sr.ht/~hajovonta/cl-embeddings")
  (:name "cl-firmata" :repo "https://git.sr.ht/~hajovonta/cl-firmata")
