@@ -11,6 +11,7 @@
  (:name "cl-embeddings" :repo "https://git.sr.ht/~hajovonta/cl-embeddings")
  (:name "cl-firmata" :repo "https://git.sr.ht/~hajovonta/cl-firmata")
  (:name "cl-irc-server" :repo "https://git.sr.ht/~hajovonta/cl-irc-server")
+ (:name "cl-kiss" :repo "https://git.sr.ht/~hajovonta/cl-kiss")
  (:name "cl-kyber" :repo "https://git.sr.ht/~hajovonta/cl-kyber")
  (:name "cl-mqtt" :repo "https://git.sr.ht/~hajovonta/cl-mqtt")
  (:name "cl-oauth2" :repo "https://git.sr.ht/~hajovonta/cl-oauth2")
