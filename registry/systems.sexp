@@ -17,6 +17,7 @@
  (:name "cl-oauth2" :repo "https://git.sr.ht/~hajovonta/cl-oauth2")
  (:name "cl-pollute" :repo "https://git.sr.ht/~hajovonta/cl-pollute")
  (:name "cl-reldb" :repo "https://git.sr.ht/~hajovonta/cl-reldb")
+ (:name "cl-reldb-io" :repo "https://git.sr.ht/~hajovonta/cl-reldb-io")
  (:name "cl-remote" :repo "https://git.sr.ht/~hajovonta/cl-remote")
  (:name "cl-sentinel" :repo "https://git.sr.ht/~hajovonta/cl-sentinel")
  (:name "cl-sourcery" :repo "https://git.sr.ht/~hajovonta/cl-sourcery")
