@@ -32,4 +32,5 @@
  (:name "generate-test-csv" :repo "https://git.sr.ht/~hajovonta/generate-test-csv")
  (:name "iris" :repo "https://git.sr.ht/~hajovonta/iris")
  (:name "janus" :repo "https://git.sr.ht/~hajovonta/janus")
- (:name "nightwalker" :repo "https://git.sr.ht/~hajovonta/nightwalker"))
+ (:name "nightwalker" :repo "https://git.sr.ht/~hajovonta/nightwalker")
+ (:name "yam" :repo "https://git.sr.ht/~hajovonta/yam"))
