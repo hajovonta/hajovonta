@@ -1,6 +1,7 @@
 ((:name "ariadne" :repo "https://git.sr.ht/~hajovonta/ariadne")
  (:name "calculon" :repo "https://git.sr.ht/~hajovonta/calculon")
  (:name "cl-authn" :repo "https://git.sr.ht/~hajovonta/cl-authn")
+ (:name "cl-authz" :repo "https://git.sr.ht/~hajovonta/cl-authz")
  (:name "cl-avr" :repo "https://git.sr.ht/~hajovonta/cl-avr")
  (:name "cl-avr-sim" :repo "https://git.sr.ht/~hajovonta/cl-avr-sim")
  (:name "cl-avr-sim-janus" :repo "https://git.sr.ht/~hajovonta/cl-avr-sim-janus")
