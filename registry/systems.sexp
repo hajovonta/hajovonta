@@ -10,6 +10,7 @@
  (:name "cl-coreutils" :repo "https://git.sr.ht/~hajovonta/cl-coreutils")
  (:name "cl-crypto-util" :repo "https://git.sr.ht/~hajovonta/cl-crypto-util")
  (:name "cl-ct" :repo "https://git.sr.ht/~hajovonta/cl-ct")
+ (:name "cl-http-security" :repo "https://git.sr.ht/~hajovonta/cl-http-security")
  (:name "cl-input-shield" :repo "https://git.sr.ht/~hajovonta/cl-input-shield")
  (:name "cl-kdf" :repo "https://git.sr.ht/~hajovonta/cl-kdf")
  (:name "cl-dns" :repo "https://git.sr.ht/~/hajovonta/cl-dns")
