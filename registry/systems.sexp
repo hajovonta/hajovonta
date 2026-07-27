@@ -9,6 +9,7 @@
  (:name "cl-codegraph" :repo "https://git.sr.ht/~hajovonta/cl-codegraph")
  (:name "cl-coreutils" :repo "https://git.sr.ht/~hajovonta/cl-coreutils")
  (:name "cl-crypto-util" :repo "https://git.sr.ht/~hajovonta/cl-crypto-util")
+ (:name "cl-audit-log" :repo "https://git.sr.ht/~hajovonta/cl-audit-log")
  (:name "cl-ct" :repo "https://git.sr.ht/~hajovonta/cl-ct")
  (:name "cl-http-security" :repo "https://git.sr.ht/~hajovonta/cl-http-security")
  (:name "cl-input-shield" :repo "https://git.sr.ht/~hajovonta/cl-input-shield")
