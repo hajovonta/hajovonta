@@ -34,6 +34,7 @@
  (:name "clim-code-editor" :repo "https://git.sr.ht/~hajovonta/clim-code-editor")
  (:name "clim-graph-pane" :repo "https://git.sr.ht/~hajovonta/clim-graph-pane")
  (:name "clim-modern" :repo "https://git.sr.ht/~hajovonta/clim-modern")
+ (:name "dbd-reldb" :repo "https://git.sr.ht/~hajovonta/dbd-reldb")
  (:name "dead-drop" :repo "https://git.sr.ht/~hajovonta/dead-drop")
  (:name "dead-drop-ui" :repo "https://git.sr.ht/~hajovonta/dead-drop-ui")
  (:name "emacs-semantic" :repo "https://git.sr.ht/~hajovonta/emacs-semantic")
