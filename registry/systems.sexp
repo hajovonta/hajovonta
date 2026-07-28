@@ -30,6 +30,7 @@
  (:name "cl-sentinel" :repo "https://git.sr.ht/~hajovonta/cl-sentinel")
  (:name "cl-session" :repo "https://git.sr.ht/~hajovonta/cl-session")
  (:name "cl-sourcery" :repo "https://git.sr.ht/~hajovonta/cl-sourcery")
+ (:name "cl-token-service" :repo "https://git.sr.ht/~hajovonta/cl-token-service")
  (:name "cl-web-editor" :repo "https://git.sr.ht/~hajovonta/cl-web-editor")
  (:name "clim-code-editor" :repo "https://git.sr.ht/~hajovonta/clim-code-editor")
  (:name "clim-graph-pane" :repo "https://git.sr.ht/~hajovonta/clim-graph-pane")
