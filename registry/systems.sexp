@@ -31,6 +31,7 @@
  (:name "cl-session" :repo "https://git.sr.ht/~hajovonta/cl-session")
  (:name "cl-sourcery" :repo "https://git.sr.ht/~hajovonta/cl-sourcery")
  (:name "cl-token-service" :repo "https://git.sr.ht/~hajovonta/cl-token-service")
+ (:name "cl-vault" :repo "https://git.sr.ht/~hajovonta/cl-vault")
  (:name "cl-web-editor" :repo "https://git.sr.ht/~hajovonta/cl-web-editor")
  (:name "clim-code-editor" :repo "https://git.sr.ht/~hajovonta/clim-code-editor")
  (:name "clim-graph-pane" :repo "https://git.sr.ht/~hajovonta/clim-graph-pane")
@@ -44,4 +45,5 @@
  (:name "iris" :repo "https://git.sr.ht/~hajovonta/iris")
  (:name "janus" :repo "https://git.sr.ht/~hajovonta/janus")
  (:name "nightwalker" :repo "https://git.sr.ht/~hajovonta/nightwalker")
+ (:name "xenia" :repo "https://git.sr.ht/~hajovonta/xenia")
  (:name "yam" :repo "https://git.sr.ht/~hajovonta/yam"))
