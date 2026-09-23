@@ -16,5 +16,7 @@ If FORCE is non-nil, re-fetches even if cached."
   *registry-cache*)
 (defvar *registry-cache* nil
   "Cached registry entries (list of plists).")
-(defvar *registry-url* "https://hajovonta.srht.site/registry/systems.sexp"
-  "URL of the remote Hajovonta registry file.")
+(defvar *registry-url* "https://raw.githubusercontent.com/hajovonta/hajovonta/master/registry/systems.sexp"
+  "URL of the remote Hajovonta registry file. Served directly from the
+hajovonta/hajovonta GitHub repo (the project migrated off sr.ht; the old
+hajovonta.srht.site Pages site is dead as of this change).")
